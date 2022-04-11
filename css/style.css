@@ -34,6 +34,8 @@ h6 {
 
 p {
   font-family: "Quattrocento Sans", sans-serif;
+  font-size: x-large;
+  color: white;
 }
 
 /*=================================================================
@@ -165,7 +167,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: #e30909;
 }
 
 .sub-title {
