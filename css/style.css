@@ -2082,3 +2082,43 @@ blockquote {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+
+
+/**************************************
+FGA - Frequently Given Answers Style 
+***************************************/
+
+* {
+  box-sizing: border-box;
+}
+*::before, *::after {
+  box-sizing: border-box;
+}
+
+.container-fga {
+  margin: 0 auto;
+  padding: 2rem;
+  width: 60vw;
+}
+
+.center-fga {
+  /*text-align: center;*/
+}
+
+.answer .answer-item {
+  border-bottom: 1px solid #e5e5e5;
+}
+.answer .answer-section {
+  position: relative;
+  display: block;
+  text-align: left;
+  width: 100%;
+  padding: 1.2em 0;
+  color: white;
+  font-size: 2rem;
+  font-weight: 400;
+  border: none;
+  background: none;
+  outline: none;
+}
